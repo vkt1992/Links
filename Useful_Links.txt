@@ -50,9 +50,19 @@ http://learntocodewith.me/programming/android/beginner-app-development/
 https://developers.google.com/android/for-all/vocab-words/
 http://developer.android.com/sdk/index.html#Other
 
+
+
+*************************
+WEB DEVELOPMENT
+*************************
+http://jsonlint.com/
+http://json.org/
+http://www.copterlabs.com/blog/json-what-it-is-how-it-works-how-to-use-it/
+
 http://getbootstrap.com/css/
 http://placehold.it/
 http://jquery.com/
+http://jsonlint.com/
 https://developer.mozilla.org/en-US/
 
 
