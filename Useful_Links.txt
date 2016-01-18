@@ -37,6 +37,7 @@ http://ajnshspianonotes.blogspot.in/
 Learn
 *************************
 
+http://highscalability.com/
 https://www.youtube.com/user/goodvideotutorials
 http://www.quora.com/What-are-the-best-Python-scripts-youve-ever-written
 
@@ -59,6 +60,7 @@ http://jsonlint.com/
 http://json.org/
 http://www.copterlabs.com/blog/json-what-it-is-how-it-works-how-to-use-it/
 
+https://pages.github.com/
 http://getbootstrap.com/css/
 http://placehold.it/
 http://jquery.com/
